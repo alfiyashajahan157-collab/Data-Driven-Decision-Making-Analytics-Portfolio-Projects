@@ -33,8 +33,8 @@ SQL | Python | Excel | Data Visualization | BI Tools | ETL & Data Cleaning
 
 To build professional analytics solutions and share skills through real-world case studies, while continuously learning and updating this portfolio.
 
+![Municipality Data Analysis Dashboard](Visuals/MunicipalityDataAnalysisDashboard.png)
 
-![Municipality Dashboard](images/MunicipalityDataAnalysisDashboard.png)
 
 
 
